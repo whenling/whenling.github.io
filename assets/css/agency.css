@@ -995,3 +995,6 @@ body {
 	height: 200px;
 	margin: 0 auto;
 }
+ol, ul {
+    list-style: outside none none;
+}
